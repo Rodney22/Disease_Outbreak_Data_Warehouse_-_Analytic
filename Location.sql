@@ -1,0 +1,38 @@
+-- Insert Locations for New York and its boroughs
+INSERT INTO Location (location_id, city, state, country, population)
+VALUES
+    ('L101', 'Manhattan', 'New York', 'USA', 1644518),
+    ('L102', 'Brooklyn', 'New York', 'USA', 2559903),
+    ('L103', 'Queens', 'New York', 'USA', 2253858),
+    ('L104', 'The Bronx', 'New York', 'USA', 1418207),
+    ('L105', 'Staten Island', 'New York', 'USA', 476143),
+    ('L106', 'Harlem', 'New York', 'USA', 112000),
+    ('L107', 'Brooklyn Heights', 'New York', 'USA', 22000),
+    ('L108', 'Upper East Side', 'New York', 'USA', 220000),
+    ('L109', 'Upper West Side', 'New York', 'USA', 210000),
+    ('L110', 'Greenwich Village', 'New York', 'USA', 30000),
+    ('L111', 'Chinatown', 'New York', 'USA', 100000),
+    ('L112', 'East Village', 'New York', 'USA', 75000),
+    ('L113', 'SoHo', 'New York', 'USA', 26000),
+    ('L114', 'Astoria', 'New York', 'USA', 230000),
+    ('L115', 'Flushing', 'New York', 'USA', 180000),
+    ('L116', 'Jackson Heights', 'New York', 'USA', 160000),
+    ('L117', 'Bay Ridge', 'New York', 'USA', 160000),
+    ('L118', 'Forest Hills', 'New York', 'USA', 90000),
+    ('L119', 'Long Island City', 'New York', 'USA', 23000),
+    ('L120', 'Coney Island', 'New York', 'USA', 80000),
+    ('L121', 'Midwood', 'New York', 'USA', 38000),
+    ('L122', 'Inwood', 'New York', 'USA', 40000),
+    ('L123', 'Tarrytown', 'New York', 'USA', 20000),
+    ('L124', 'The Bronx Zoo', 'New York', 'USA', 500),
+    ('L125', 'Battery Park City', 'New York', 'USA', 15000),
+    ('L126', 'Hell’s Kitchen', 'New York', 'USA', 50000),
+    ('L127', 'Financial District', 'New York', 'USA', 60000),
+    ('L128', 'SoHo', 'New York', 'USA', 26000),
+    ('L129', 'Park Slope', 'New York', 'USA', 20000),
+    ('L130', 'Dumbo', 'New York', 'USA', 30000),
+    ('L131', 'Chelsea', 'New York', 'USA', 60000),
+    ('L132', 'Midtown Manhattan', 'New York', 'USA', 800000),
+    ('L133', 'Greenwich Village', 'New York', 'USA', 30000);
+
+	
